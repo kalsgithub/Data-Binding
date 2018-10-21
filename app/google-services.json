@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "749909780404",
+    "firebase_url": "https://fir-app-5ab78.firebaseio.com",
+    "project_id": "fir-app-5ab78",
+    "storage_bucket": "fir-app-5ab78.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749909780404:android:4e348a745cebf4e7",
+        "android_client_info": {
+          "package_name": "com.mcs.kalherath.moviesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "749909780404-88hakdmge0mpbv8vi56fm6padvr1hq30.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoOtfp55ewLGJXJi0QKsOndMWmNKy4pIY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
